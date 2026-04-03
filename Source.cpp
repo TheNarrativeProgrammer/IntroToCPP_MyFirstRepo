@@ -10,4 +10,6 @@ int main()
 		std::cout << "working";
 	}
 
+	int a = 3;
+
 }
