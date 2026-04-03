@@ -4,8 +4,6 @@
 
 #define PRINT_NL(varToPrint) std::cout << varToPrint << std::endl
 
-using String = std::string;
-typedef std::string StringTD;
 
 using String = std::string;
 using bl = bool;
