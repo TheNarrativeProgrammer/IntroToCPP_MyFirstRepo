@@ -9,7 +9,7 @@ int main()
 
 	if (true)
 	{
-		std::cout << "working";
+		std::cout << "Print something else";
 	}
 
 	int a = 3;
