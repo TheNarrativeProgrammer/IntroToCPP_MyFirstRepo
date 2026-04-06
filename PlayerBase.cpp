@@ -3,3 +3,7 @@
 playerBase::playerBase()
 {
 }
+
+void playerBase::Move()
+{
+}
