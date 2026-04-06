@@ -23,6 +23,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="MyFunctions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
