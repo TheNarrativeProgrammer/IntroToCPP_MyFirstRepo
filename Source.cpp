@@ -1,7 +1,9 @@
 #include <iostream>
+#include "Item.h"
 
 int main()
 {
+	Item* myItemOnHeap = new Item();
 	int b = 1;
 	int c = 2;
 	int y = 1;
@@ -14,4 +16,5 @@ int main()
 
 	int a = 3;
 
+	delete myItemOnHeap;
 }
