@@ -7,3 +7,7 @@ EnemyBase::EnemyBase()
 void EnemyBase::Move()
 {
 }
+
+void EnemyBase::Attack()
+{
+}
