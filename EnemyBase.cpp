@@ -3,3 +3,7 @@
 EnemyBase::EnemyBase()
 {
 }
+
+void EnemyBase::Move()
+{
+}
