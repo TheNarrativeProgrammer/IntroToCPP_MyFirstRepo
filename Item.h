@@ -2,4 +2,4 @@
 class Item
 {
   std::string mName = "box";
-}
+};
